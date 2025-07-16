@@ -21,8 +21,8 @@ export default function AboutSection() {
                         <div className="relative w-80 h-80 rounded-md overflow-hidden bg-slate-800 border-4 border-primary">
                             <img src="/aditiya.png" className="w-full rotate- object-cover" alt="Aditiya" />
                         </div>
-                        <div className="absolute -top-4 -right-4 w-8 h-8 bg-purple-500 rounded-full animate-bounce"></div>
-                        <div className="absolute -bottom-4 -left-4 w-6 h-6 bg-blue-500 rounded-full animate-bounce" ></div>
+                        <div className="absolute -top-4 -right-4 w-8 h-8 bg-primary/55 rounded-full animate-bounce"></div>
+                        <div className="absolute -bottom-4 -left-4 w-6 h-6 bg-yellow-500/50 rounded-full animate-bounce" ></div>
                     </div>
                 </div>
 
@@ -45,6 +45,8 @@ export default function AboutSection() {
                         
 
                         <div className="flex flex-wrap gap-3 mb-8">
+                            <span className="px-4 py-2 flex items-center gap-3 bg-gradient-to-r from-purple-500/20 to-blue-500/20 border border-purple-500/30 rounded-full text-purple-300 text-sm font-medium"><i className="fa fa-laptop" aria-hidden="true"></i>Fullstack WEB DEV</span>
+                            <span className="px-4 py-2 flex items-center gap-3 bg-gradient-to-r from-purple-500/20 to-blue-500/20 border border-purple-500/30 rounded-full text-purple-300 text-sm font-medium"><i className="fa fa-laptop" aria-hidden="true"></i>Editor</span>
                             <span className="px-4 py-2 flex items-center gap-3 bg-gradient-to-r from-purple-500/20 to-blue-500/20 border border-purple-500/30 rounded-full text-purple-300 text-sm font-medium"><i className="fa fa-laptop" aria-hidden="true"></i>Editor</span>
                             <span className="px-4 py-2  flex items-center gap-3 bg-gradient-to-r from-purple-500/20 to-blue-500/20 border border-blue-500/30 rounded-full text-blue-300 text-sm font-medium"><i className="fa fa-camera" aria-hidden="true"></i>Fotographer</span>
                             <span className="px-4 py-2  flex items-center gap-3 bg-gradient-to-r from-purple-500/20 to-blue-500/20 border border-blue-500/30 rounded-full text-blue-300 text-sm font-medium"><i className="fa fa-video-camera" aria-hidden="true"></i>Videographer</span>
