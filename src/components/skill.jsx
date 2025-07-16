@@ -8,8 +8,28 @@ const hardSkills = [
         iconType: "svg",
         deskripsi: "Photoshop adalah tempat pasti saya untuk membuat design poster, thumbnail, social media promotion, logo, iklan, dan lain sebagainya."
     },
+        {
+        judul: "Adobe Photoshop",
+        icon: "adobeptsh.svg",
+        iconType: "svg",
+        deskripsi: "Photoshop adalah tempat pasti saya untuk membuat design poster, thumbnail, social media promotion, logo, iklan, dan lain sebagainya."
+    },
+        {
+        judul: "Adobe Photoshop",
+        icon: "adobeptsh.svg",
+        iconType: "svg",
+        deskripsi: "Photoshop adalah tempat pasti saya untuk membuat design poster, thumbnail, social media promotion, logo, iklan, dan lain sebagainya."
+    },
 ]
 const softSkills = [
+    {
+        judul: "Kerja Sama",
+        icon: "fas fa-handshake",
+    },
+    {
+        judul: "Kerja Sama",
+        icon: "fas fa-handshake",
+    },
     {
         judul: "Kerja Sama",
         icon: "fas fa-handshake",
